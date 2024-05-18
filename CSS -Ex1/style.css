@@ -1,0 +1,21 @@
+body{
+    background-color: #ffffff;
+    margin: 0px;
+}
+
+.contentContainer{
+    background-color: whitesmoke;
+    margin: 5px;
+    padding: 20px;
+    border: 2px solid lightgrey;
+    font-weight: 700;
+}
+
+#pageTitle{
+ text-align: center;
+}
+
+#specialParagraph{
+    color: blue;
+    font-weight: 700;
+}
